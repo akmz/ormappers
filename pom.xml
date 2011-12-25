@@ -9,7 +9,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <doma.version>1.20.0</doma.version>
+    <doma.version>1.20.1-SNAPSHOT</doma.version>
     <aptdir>.apt_generated</aptdir>
     <dao.subpackage>impl</dao.subpackage>
   </properties>

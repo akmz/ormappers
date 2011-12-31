@@ -10,5 +10,7 @@
     <class>sample.jpa.entity.Publisher</class>
     <class>sample.jpa.entity.User</class>
     <class>sample.jpa.entity.Complex</class>
+    <class>sample.jpa.entity.ListenerSample</class>
+    <class>sample.jpa.entity.ListenerSample2</class>
   </persistence-unit>
 </persistence>

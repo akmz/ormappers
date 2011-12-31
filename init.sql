@@ -81,3 +81,15 @@ insert into complex (id1, id2, val) values
 ,(2, 1, 'd')
 ,(2, 2, 'e')
 ;
+
+create table listener_sample (
+	id identity,
+	val varchar(100),
+	version bigint not null default(1)
+);
+
+create table listener_sample2 (
+	id identity,
+	val varchar(100),
+	version bigint not null default(1)
+);
